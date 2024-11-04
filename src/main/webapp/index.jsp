@@ -69,7 +69,7 @@
 <body>
 <div class="login-container">
     <h1>Login</h1>
-    <form action="/Hello" method="post">
+    <form action="/HelloServlet" method="POST">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required>
         <label for="password">Contraseña:</label>
